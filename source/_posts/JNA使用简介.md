@@ -1,7 +1,9 @@
 ---
 title: JNA使用简介
 date: 2018-11-04 12:57:52
-tags:
+tags: 
+ - JNA
+categories: 技术研究
 ---
 本文介绍如何使用JNA来实现java对静态lib的调用。
 # 1.JNA是什么

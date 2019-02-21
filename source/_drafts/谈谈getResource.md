@@ -1,7 +1,6 @@
 ---
 title: 谈谈getResource
 date: 2018-04-24 09:34:27
-tags: java ClassLoader resource
 ---
 # 1.背景
 java提供了如下一些方法从类路径(Class Path)中获取资源文件：  

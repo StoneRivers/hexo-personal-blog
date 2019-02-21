@@ -1,7 +1,9 @@
 ---
 title: Nginx配置详解
 date: 2018-02-24 13:37:58
-tags: Nginx
+tags: 
+ - Nginx
+categories: 学习总结
 ---
 # 一、背景
 工作中常遇到需要修改Nginx配置的地方，现总结一些，便于查阅。  

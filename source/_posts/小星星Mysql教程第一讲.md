@@ -1,7 +1,10 @@
 ---
 title: 小星星Mysql教程第一讲
 date: 2019-02-21 23:31:22
-tags: Mysql,小星星
+tags: 
+ - Mysql 
+ - 小星星
+categories: 学习总结
 ---
 # 一、环境准备
 ## 1.1 Mysql远程测试数据库准备

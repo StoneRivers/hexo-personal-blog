@@ -1,7 +1,6 @@
 ---
 title: Mysql启动方式总结
 date: 2016-09-21 21:10:22
-tags: mysql
 ---
 # 1.背景
 对于macOS系统，mysql官网提供了以下两种方式：
