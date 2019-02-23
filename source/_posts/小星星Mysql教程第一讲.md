@@ -1,5 +1,5 @@
 ---
-title: 小星星Mysql教程第一讲
+title: 写给小星星的Mysql教程 - 第一讲
 date: 2019-02-21 23:31:22
 tags: 
  - Mysql 
