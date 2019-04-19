@@ -11,7 +11,7 @@ categories: 学习总结
 数据库(DB，database)是按照数据结构来组织、存储和管理数据的“仓库”。  
 知道它能存放数据就好。  
 Mysql就是常用的关系型数据库之一，开源不要钱！！
-
+<!-- more -->
 ## 1.2 如何与DB交流
 市面上那么多数据库，如果每种数据库开发厂商都各自制定使用者操作数据库的语言规范，那么开发人员只有死。  
 ANSI（American National Standards Institute 美国国家标准化组织）制定了一套访问数据库的标准，其常用的主要命令几乎所有的数据库厂商都予以了支持。这种标准化语言就叫SQL（Structured Query Language）。
@@ -33,17 +33,17 @@ Password（）:`******`
 
 ## 2.3 使用Sequel Pro
 安装完成Sequel Pro打开后，新填加一个链接如下图，并保存（便于下次直接登录）
-![](../images/小星星Mysql教程第一讲/1.png)
+![](1.jpg)
 将2.1中数据库相应信息填入后Connect就能连上数据库啦！！
-![](../images/小星星Mysql教程第一讲/2.png)
+![](2.jpg)
 
 ## 2.4 查询数据
 ### 2.4.1 通过界面操作
-![](../images/小星星Mysql教程第一讲/3.png)
+![](3.jpg)
 试试各种查询条件，比如id = 1。
 ### 2.4.2 通过SQL查询
-![](../images/小星星Mysql教程第一讲/4.png)
+![](4.jpg)
 示例Sql为：`select * from test_table where id = 2`
 ### 2.4.3 命令行操作展示
 上面整个操作流程如果用命令行进行操作：
-![](../images/小星星Mysql教程第一讲/5.png)
+![](5.jpg)

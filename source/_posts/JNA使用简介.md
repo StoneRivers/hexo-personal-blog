@@ -10,6 +10,7 @@ categories: 技术研究
 > JNA provides Java programs easy access to native shared libraries without writing anything but Java code - no JNI or native code is required.   
 
 github地址：[https://github.com/java-native-access/jna](https://github.com/java-native-access/jna)
+<!-- more -->
 
 # 2.如何生成一个动态链接文件（.dylib）
 编写一个最简单的add.c文件  

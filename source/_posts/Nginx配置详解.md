@@ -13,7 +13,7 @@ categories: 学习总结
 > ./nginx -v
 nginx version: openresty/1.11.2.4
 ```
-
+<!-- more -->
 # 二、总览
 查看nginx安装后的默认配置文件如下（./conf/nginx.conf）:
 
