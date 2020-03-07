@@ -14,10 +14,10 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2016
+since: 2014
 
 # icon between year and author @Footer
-authoricon: 
+authoricon:
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -46,7 +46,7 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: 
+  home:
   categories: categories/
   #about: about/
   archives: archives/
@@ -157,7 +157,7 @@ sidebar:
 
   # Scroll percent label in b2t button
   scrollpercent: false
-  
+
   # Enable sidebar on narrow view
   onmobile: false
 
