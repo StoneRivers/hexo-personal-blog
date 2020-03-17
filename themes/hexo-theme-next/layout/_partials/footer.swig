@@ -19,9 +19,8 @@
     NexT.{{ theme.scheme }}
   </a>
 </div>
-<div class=BbeiAn-info">
+<div class="beian-info">
   {{ __('鄂ICP备') }} -
-  <a href="http://www.miitbeian.gov.cn/">18004935号</a>
-  </a>
+  <a class="theme-link" href="http://www.miitbeian.gov.cn/">18004935号</a>
 </div>
 {% endif %}
