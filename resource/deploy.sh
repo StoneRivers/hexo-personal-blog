@@ -1,0 +1,1 @@
+curl --location --request POST 'https://stonerivers.ink/github/webhook/hexo-personal-blog' --header 'Content-Type: application/json' --data-raw '{}'
