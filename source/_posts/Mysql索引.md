@@ -68,7 +68,7 @@ categories:
 
 InnoDB的二级索引和MyIsam的索引都是非聚族索引。
 
-![非聚族索引](1.jpg)
+![非聚族索引](https://stonerivers.oss-cn-beijing.aliyuncs.com/R3IKX4IOY6EPU8YDWO2O.jpg)
 
 借用《高性能 MySql》书中的图，可以看出区别：
 

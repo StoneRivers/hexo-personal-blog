@@ -41,7 +41,7 @@ insert into doc_transfer (source_type,  source_id, owner_type,  owner_id, doc_id
 
 出现死锁后使用show engine innodb status;查看死锁日志如下：
 
-![](1.png)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/32TJN7YSQFPRBWWC3YFI.png)
 
 大致的信息：
 
@@ -54,11 +54,11 @@ insert into doc_transfer (source_type,  source_id, owner_type,  owner_id, doc_id
 尝试复现这个死锁，步骤如下：
 transaction1: 
 
-![](2.png)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/WW72NHFAERJRWUPKG0OL.png)
 
 transaction2: 
 
-![](3.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/WXTIYJOW8VQRSG2B9I8N.jpg)
 
 | No   | transaction1 | transaction2   |
 | :--- | :----------- | :------------- |
@@ -75,7 +75,7 @@ transaction2:
 
 在执行完4还未执行5之后看看两个transaction持有和等待锁的情况: 
 
-![](4.png)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/15VM2G5M3T49PYAIQU7A.png)
 
 案例中的Transaction和复现步骤中的Transaction中对应关系如下：
 
@@ -114,4 +114,4 @@ transaction2:
 
 ### 图示
 
-### ![](5.png)
+### ![](https://stonerivers.oss-cn-beijing.aliyuncs.com/XGVQF35M3C55JPBC2QAN.png)

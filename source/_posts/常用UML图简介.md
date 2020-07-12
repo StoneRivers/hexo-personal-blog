@@ -13,7 +13,7 @@ UML 是统一建模语言（UnifiedModelingLanguage）的简称。是面向对�
 
 UML1.0 & 2.0 共有14种类型的图：
 
-{% asset_img 1.jpg %}
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/OUN31UIW4X7YGS932H5C.jpg)
 
 本文选择较为常用的四种进行介绍：
 
@@ -30,17 +30,17 @@ UML1.0 & 2.0 共有14种类型的图：
 
 ### 2.1 表示一个类
 
-![](2.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/WHR3HAMKHN2U9U5SB1H3.jpg)
 
 ### 2.2 表示一个接口
 
 在名称上使用<<interface>>标识
 
-![](3.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/X9OLCRVBYN0B8NEAFJ4I.jpg)
 
 ### 2.3 表示类或者接口之间的关系
 
-![](4.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/77RAL1FT05HWNKS9Y9B4.jpg)
 
 ## 三、用例图
 
@@ -50,13 +50,13 @@ UML1.0 & 2.0 共有14种类型的图：
 
 用小人图标表示，是与系统主体交互的外部实体的类元。
 
-![](5.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/CKBTKG5JV6VNCY380NP4.jpg)
 
 ### 3.2 用例
 
 用例用带描述的椭圆表示，是一个内聚的的功能单元。
 
-![](6.)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/3TBM7GQ8MPAUNJ2YGVI1.jpg)
 
 ### 3.3 用例与参与者的关系
 
@@ -81,7 +81,7 @@ UML1.0 & 2.0 共有14种类型的图：
 
 主要元素如下图所示：
 
-![](7.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/6O0VF3IVHEV06II5AKA6.jpg)
 
 其中messae1为同步消息，message2为返回消息，message3位异步消息，message4为自关联消息。
 

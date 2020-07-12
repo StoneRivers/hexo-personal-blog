@@ -33,17 +33,17 @@ Password（）:`******`
 
 ## 2.3 使用Sequel Pro
 安装完成Sequel Pro打开后，新填加一个链接如下图，并保存（便于下次直接登录）
-![](1.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/QE337P0113Y3IEK222LD.jpg)
 将2.1中数据库相应信息填入后Connect就能连上数据库啦！！
-![](2.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/XV5N9UTLQJCF7P9LGKXE.jpg)
 
 ## 2.4 查询数据
 ### 2.4.1 通过界面操作
-![](3.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/JU65TX7T8YKTDXGMYVC2.jpg)
 试试各种查询条件，比如id = 1。
 ### 2.4.2 通过SQL查询
-![](4.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/Y3N9IU812I66LL0T8J9Q.jpg)
 示例Sql为：`select * from test_table where id = 2`
 ### 2.4.3 命令行操作展示
 上面整个操作流程如果用命令行进行操作：
-![](5.jpg)
+![](https://stonerivers.oss-cn-beijing.aliyuncs.com/GAAS1MBFVCKUV3D81E8Q.jpg)
