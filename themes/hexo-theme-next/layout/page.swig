@@ -35,7 +35,10 @@
             {{ _p('counter.categories', site.categories.length) }}
         </div>
         <div class="category-all">
-          {{ list_categories() }}
+          {{ list_categories({
+                  orderby: 'length',
+                  order: -1
+          }) }}
         </div>
       </div>
     {% else %}
