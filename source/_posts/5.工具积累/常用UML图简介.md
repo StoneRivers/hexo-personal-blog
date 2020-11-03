@@ -7,8 +7,6 @@ categories:
  - 工具积累
 link_title: uml-diagram
 ---
-# 常用UML图简介
-
 ## 一、什么是UML
 
 UML 是统一建模语言（UnifiedModelingLanguage）的简称。是面向对象软件的标准化建模语言。

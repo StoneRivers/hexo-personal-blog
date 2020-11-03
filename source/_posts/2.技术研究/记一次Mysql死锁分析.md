@@ -8,8 +8,6 @@ categories:
  - 技术研究
 link_title: mysql-deadlock-analyze 
 ---
-# 记一次Mysql死锁分析
-
 ## 场景
 
 数据表结构如下：
