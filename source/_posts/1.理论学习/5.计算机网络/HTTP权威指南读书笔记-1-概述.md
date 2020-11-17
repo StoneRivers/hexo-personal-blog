@@ -3,8 +3,9 @@ title: HTTP权威指南读书笔记 (1) - 概述
 date: 2020-09-08 09:52:20
 tags:
  - 网络协议
-categories:
  - 读书笔记
+categories:
+ - 理论学习
 link_title: http-overview
 ---
 HTTP协议构建在可靠的数据传输协议（TCP）至上。用于Web客户端向Web服务器请求Web资源。

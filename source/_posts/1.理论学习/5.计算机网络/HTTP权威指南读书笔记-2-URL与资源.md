@@ -3,8 +3,9 @@ title: HTTP权威指南读书笔记 (2) - URL与资源
 date: 2020-09-08 09:54:01
 tags:
  - 网络协议
-categories:
  - 读书笔记
+categories:
+ - 理论学习
 link_title: url-resource
 ---
 ## 1.资源标识符
