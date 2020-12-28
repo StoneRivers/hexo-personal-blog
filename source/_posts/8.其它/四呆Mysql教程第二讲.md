@@ -1,5 +1,5 @@
 ---
-title: 写给小星星的Mysql教程 - 第二讲
+title: 四呆的Mysql教程 - 第二讲
 date: 2019-03-28 14:31:22
 tags: 
  - Mysql 

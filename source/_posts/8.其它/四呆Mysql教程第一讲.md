@@ -1,5 +1,5 @@
 ---
-title: 写给小星星的Mysql教程 - 第一讲
+title: 四呆的Mysql教程 - 第一讲
 date: 2019-02-21 23:31:22
 tags: 
  - Mysql 
@@ -18,7 +18,7 @@ Mysql就是常用的关系型数据库之一，开源不要钱！！
 ANSI（American National Standards Institute 美国国家标准化组织）制定了一套访问数据库的标准，其常用的主要命令几乎所有的数据库厂商都予以了支持。这种标准化语言就叫SQL（Structured Query Language）。
 ## 二、搭建学习环境
 ### 2.1 搭建数据库
-要学习Mysql我们需要搭建一套Mysql服务，可以选择在本地搭建或者远程服务器上搭建，小星星可以不关心这里，小张已经在服务器上搭建了一套Mysql服务，直接用就好。  
+要学习Mysql我们需要搭建一套Mysql服务，可以选择在本地搭建或者远程服务器上搭建，四呆可以不关心这里，小张已经在服务器上搭建了一套Mysql服务，直接用就好。  
 具体的信息如下：  
 Host（数据库服务器域名）:`stonerivers.me`  
 UserName（数据库用户名）:`maya`  
